@@ -1,3 +1,3 @@
-/bin/install_spcache.sh https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/install_spcache.sh 302
-/bin/install_spcache.ps1 https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/install_spcache.ps1 302
-/bin/uninstall_spcache.ps1 https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/uninstall_spcache.ps1 302
+install_spcache.sh https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/install_spcache.sh 302
+install_spcache.ps1 https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/install_spcache.ps1 302
+uninstall_spcache.ps1 https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/uninstall_spcache.ps1 302
